@@ -58,7 +58,7 @@ ss://YmYtY2ZiOnRlc3QvIUAjOkAxOTIuMTY4LjEwMC4xOjg4ODg
 To help organize and identify these URIs, you can append a tag after the BASE64 encoded string:
 
 ```
-ss://YmYtY2ZiOnRlc3QvIUAjOkAxOTIuMTY4LjEwMC4xOjg4ODg#example-server
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0Ri1sNW5yRkZnSmxmT1VvTzJfRy1n@144.124.234.194:555#Niderland2%F0%9F%87%B3%F0%9F%87%B1
 ```
 
 This URI can also be encoded to QR code. Then, just scan it with your Android / iOS devices:
